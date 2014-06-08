@@ -223,7 +223,9 @@
     {
         "class": "tab_label",
         "attributes": ["transient"],
-        "font.italic": true
+        "font.italic": true,
+        "font.size": 14,
+        "font_face": "Meslo LG M DZ Regular"
     },
 
 //
